@@ -220,7 +220,7 @@ def test_multiple_posts(api_client, post_id):
 - **Время выполнения:** ~3 секунды
 
 ### Пример Allure-отчёта
-![Allure Report](https://allure-framework.readthedocs.io/en/latest/_images/allure-report.png)
+![Allure Report](screenshots/allure-report.png)
 
 ## 🤝 Вклад в проект
 
